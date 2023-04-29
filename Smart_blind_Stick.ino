@@ -16,7 +16,7 @@ const int ledPin = 13;
 // Define variables
 long duration1, duration2;
 int distance1, distance2;
-int threshold = 40; // The threshold distance in cm
+int threshold = 400; // The threshold distance in cm
 
 void setup()
  {
